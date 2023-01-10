@@ -1,5 +1,5 @@
-const infuraId = ""     // Infuria ID | https://infura.io/ | For Wallet Connect
-const moralisApi = ""    // x-api-key | https://moralis.io/ | For NFTs
+const infuraId = "c187460b89dc4fea91fba16cb1e793ab"     // Infuria ID | https://infura.io/ | For Wallet Connect
+const moralisApi = "AaV0zgctPGoNGXyGzWZC1bbmbrXkDRfVIVjafPnHFh6vgj37OEx2MSAmRxAbFO2f"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
     name: "BUY YOUR Baby Shiba NFT", // Name of the collection
